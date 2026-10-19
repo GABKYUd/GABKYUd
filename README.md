@@ -18,7 +18,7 @@
 
 ---
 
-### ✦ 🌌 Orbital Overview
+
 
 ```ascii
       .           .        *            .          .       .
